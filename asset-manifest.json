@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TaskManager-todo/static/css/main.e9bb4a44.chunk.css",
-    "main.js": "/TaskManager-todo/static/js/main.349cdb82.chunk.js",
-    "main.js.map": "/TaskManager-todo/static/js/main.349cdb82.chunk.js.map",
+    "main.js": "/TaskManager-todo/static/js/main.525766b0.chunk.js",
+    "main.js.map": "/TaskManager-todo/static/js/main.525766b0.chunk.js.map",
     "runtime~main.js": "/TaskManager-todo/static/js/runtime~main.d710b215.js",
     "runtime~main.js.map": "/TaskManager-todo/static/js/runtime~main.d710b215.js.map",
     "static/js/2.8099e0a3.chunk.js": "/TaskManager-todo/static/js/2.8099e0a3.chunk.js",
     "static/js/2.8099e0a3.chunk.js.map": "/TaskManager-todo/static/js/2.8099e0a3.chunk.js.map",
     "index.html": "/TaskManager-todo/index.html",
-    "precache-manifest.4e6615a7396c1d62c11b27f870ba8f64.js": "/TaskManager-todo/precache-manifest.4e6615a7396c1d62c11b27f870ba8f64.js",
+    "precache-manifest.d3a091212531fa2b8ebf739c13e2dc45.js": "/TaskManager-todo/precache-manifest.d3a091212531fa2b8ebf739c13e2dc45.js",
     "service-worker.js": "/TaskManager-todo/service-worker.js",
     "static/css/main.e9bb4a44.chunk.css.map": "/TaskManager-todo/static/css/main.e9bb4a44.chunk.css.map"
   }
