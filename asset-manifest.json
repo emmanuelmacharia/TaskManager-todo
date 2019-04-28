@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/emmanuelmacharia/TaskManager-Todo/static/css/main.e9bb4a44.chunk.css",
-    "main.js": "/emmanuelmacharia/TaskManager-Todo/static/js/main.d086d938.chunk.js",
-    "main.js.map": "/emmanuelmacharia/TaskManager-Todo/static/js/main.d086d938.chunk.js.map",
-    "runtime~main.js": "/emmanuelmacharia/TaskManager-Todo/static/js/runtime~main.983f0277.js",
-    "runtime~main.js.map": "/emmanuelmacharia/TaskManager-Todo/static/js/runtime~main.983f0277.js.map",
-    "static/js/2.8099e0a3.chunk.js": "/emmanuelmacharia/TaskManager-Todo/static/js/2.8099e0a3.chunk.js",
-    "static/js/2.8099e0a3.chunk.js.map": "/emmanuelmacharia/TaskManager-Todo/static/js/2.8099e0a3.chunk.js.map",
-    "index.html": "/emmanuelmacharia/TaskManager-Todo/index.html",
-    "precache-manifest.e9438257e55995db44ae3f107e190072.js": "/emmanuelmacharia/TaskManager-Todo/precache-manifest.e9438257e55995db44ae3f107e190072.js",
-    "service-worker.js": "/emmanuelmacharia/TaskManager-Todo/service-worker.js",
-    "static/css/main.e9bb4a44.chunk.css.map": "/emmanuelmacharia/TaskManager-Todo/static/css/main.e9bb4a44.chunk.css.map"
+    "main.css": "/TaskManager-todo/static/css/main.e9bb4a44.chunk.css",
+    "main.js": "/TaskManager-todo/static/js/main.349cdb82.chunk.js",
+    "main.js.map": "/TaskManager-todo/static/js/main.349cdb82.chunk.js.map",
+    "runtime~main.js": "/TaskManager-todo/static/js/runtime~main.d710b215.js",
+    "runtime~main.js.map": "/TaskManager-todo/static/js/runtime~main.d710b215.js.map",
+    "static/js/2.8099e0a3.chunk.js": "/TaskManager-todo/static/js/2.8099e0a3.chunk.js",
+    "static/js/2.8099e0a3.chunk.js.map": "/TaskManager-todo/static/js/2.8099e0a3.chunk.js.map",
+    "index.html": "/TaskManager-todo/index.html",
+    "precache-manifest.4e6615a7396c1d62c11b27f870ba8f64.js": "/TaskManager-todo/precache-manifest.4e6615a7396c1d62c11b27f870ba8f64.js",
+    "service-worker.js": "/TaskManager-todo/service-worker.js",
+    "static/css/main.e9bb4a44.chunk.css.map": "/TaskManager-todo/static/css/main.e9bb4a44.chunk.css.map"
   }
 }
