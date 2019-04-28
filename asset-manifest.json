@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/emmanuelmacharia/TaskManager-Todo/static/css/main.e9bb4a44.chunk.css",
+    "main.js": "/emmanuelmacharia/TaskManager-Todo/static/js/main.d086d938.chunk.js",
+    "main.js.map": "/emmanuelmacharia/TaskManager-Todo/static/js/main.d086d938.chunk.js.map",
+    "runtime~main.js": "/emmanuelmacharia/TaskManager-Todo/static/js/runtime~main.983f0277.js",
+    "runtime~main.js.map": "/emmanuelmacharia/TaskManager-Todo/static/js/runtime~main.983f0277.js.map",
+    "static/js/2.8099e0a3.chunk.js": "/emmanuelmacharia/TaskManager-Todo/static/js/2.8099e0a3.chunk.js",
+    "static/js/2.8099e0a3.chunk.js.map": "/emmanuelmacharia/TaskManager-Todo/static/js/2.8099e0a3.chunk.js.map",
+    "index.html": "/emmanuelmacharia/TaskManager-Todo/index.html",
+    "precache-manifest.e9438257e55995db44ae3f107e190072.js": "/emmanuelmacharia/TaskManager-Todo/precache-manifest.e9438257e55995db44ae3f107e190072.js",
+    "service-worker.js": "/emmanuelmacharia/TaskManager-Todo/service-worker.js",
+    "static/css/main.e9bb4a44.chunk.css.map": "/emmanuelmacharia/TaskManager-Todo/static/css/main.e9bb4a44.chunk.css.map"
+  }
+}
